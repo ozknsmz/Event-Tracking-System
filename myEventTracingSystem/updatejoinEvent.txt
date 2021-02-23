@@ -1,0 +1,4 @@
+ozknsmz,100,cyber security,Ankara,12.05.2017
+ozknsmz,101,Machine Learning,İzmir,29.12.2015
+ozknsmz,100,cyber security,Ankara,25.10.2020
+-

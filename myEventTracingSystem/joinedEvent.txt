@@ -1,0 +1,7 @@
+velikrgl,100,cyber security,Ankara,25.12.2020
+velikrgl,101,Machine Learning,İzmir,29.12.2020
+velikrgl,100,cyber security,Ankara,25.12.2020
+ur,100,cyber security,İzmir,25.12.2020
+a,101,Machine Learning,İzmir,29.12.2020
+username,102,Java Programming Course,Osmaniye,08.12.2020
+ozknsmz,100,cyber security,İzmir,25.12.2020
